@@ -1,4 +1,4 @@
- **VRV-Log-Analysis-Tool**
+ # **VRV-Log-Analysis-Tool**
 
 This Python-based tool is designed to process and analyze server log files for key metrics, helping system administrators and cybersecurity professionals monitor network activity. The tool parses log files to:
 
@@ -62,7 +62,7 @@ To get started with the project, follow the steps below:
 
 1. **Clone the Repository**
 Clone this project to your local machine by using Git:
-git clone https://github.com/yourusername/vrv-log-analysis.git
+git clone https://github.com/mounikasrinivasarao/VRV-Log-Analysis-Tool
 
 
 2. **Navigate to Project Folder**
